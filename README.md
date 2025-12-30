@@ -1,8 +1,4 @@
-Below is a solid, “drop-in” README you can paste into `README.md`, plus the exact steps to open-source your already-trained model folder on Hugging Face.
-
----
-
-## README.md (copy/paste)
+## README.md 
 
 ````md
 # Whisper Roman-Urdu Fine-tuning (openai/whisper-small)

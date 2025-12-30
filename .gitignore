@@ -1,0 +1,7 @@
+.env
+whisper-roman-urdu/
+roman-urdu-dataset-20000/
+.venv/
+temp/
+whisper_roman_urdu/__pycache__
+utils/
